@@ -1,5 +1,46 @@
-<h1 align="center">hiya!</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/noctispy/noctispy/main/cat-cats.gif" width="300">
+</p>
+
+<h1 align="center">hiya.</h1>
 
 <p align="center">
-  i am idk or whatever <br>
-  i program for fun (and money)
+  i'm <b>noctispy</b><br>
+  i code in c++ and python<br>
+  (im harmless btw)
+</p>
+
+---
+
+## languages i code in
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+</p>
+
+---
+
+## stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## gallery
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/second-image.png" width="250">
+</p>
+
+---
+
+<p align="center">
+  <sub>by noctispy</sub>
+</p>
