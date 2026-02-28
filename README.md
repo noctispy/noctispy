@@ -24,11 +24,11 @@
 ## stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=noctispy&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noctispy&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -36,7 +36,7 @@
 ## gallery
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/second-image.png" width="250">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/noctispy/main/Screenshot 2026-02-28 133157.png" width="250">
 </p>
 
 ---
