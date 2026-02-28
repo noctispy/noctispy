@@ -3,4 +3,3 @@
 <p align="center">
   i am idk or whatever <br>
   i program for fun (and money)
-</p>## Hi there 👋
