@@ -20,7 +20,7 @@ $ whoami
 noctispy
 
 $ languages
-C++ | Python
+Python
 
 $ status
 harmless (probably)
@@ -36,7 +36,7 @@ harmless (probably)
 
 <p align="center">
   i'm <b>noctispy</b><br>
-  i code in c++ and python<br>
+  i code in python<br>
   (im harmless btw)
 </p>
 
