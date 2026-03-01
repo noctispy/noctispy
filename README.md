@@ -1,7 +1,7 @@
 <!-- MATRIX TYPING HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+noctispy...;Loading+C%2B%2B+modules...;Injecting+Python+scripts...;Access+Granted." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+noctispy...;Loading.p%2B%2Bymodules...;Injecting+Python+scripts...;Access+Granted." />
 </p>
 
 ---
